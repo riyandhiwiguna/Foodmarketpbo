@@ -10,7 +10,7 @@ Diagram kelas UML (Unified Modeling Language)  adalah ilustrasi yang menggambark
 Berikut ini adalah alur dari program Food Market
 # Login
 Program ini akan meminta User untuk menginputkan username dan password, disini ada 2 tipe yang tersedia yaitu Admin dan Customer.<br>
---ADMIN--
+--ADMIN--<br>
 Username : admin<br>
 Password : admin<br>
 --Customer--<br>
